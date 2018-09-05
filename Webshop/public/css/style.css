@@ -1,0 +1,15 @@
+#cart {
+    position: relative;
+    border: solid #000 5px;
+    top: -550px;
+    height: 500px;
+    width: 300px;
+    left: -180px;
+    background-color: #fff;
+}
+
+
+.oneline {
+    white-space: nowrap;
+    overflow: hidden;
+}
